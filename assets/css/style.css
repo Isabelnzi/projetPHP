@@ -1,0 +1,107 @@
+.logo{
+    height: 70px;
+}
+.logo1{
+    background-image:url(assets/img/logo.png); 
+}
+nav{
+    font-family: 'Cabin Condensed', sans-serif;
+    background-image: url(../img/fond.jpg); 
+    font-size:20px;
+    font-weight: bold;
+    
+}
+.menu{
+    color: red;
+}
+body{
+    padding-top: 120px;
+    background-image: url(../img/fond3.jpg);
+}
+p{
+    font-size: 20px;
+    font-family: 'Titillium Web', sans-serif;
+    
+}
+blue{
+    background-color: blue;
+}
+h5{
+    font-size: 30px;
+}
+h1{
+    margin-bottom: 50px;
+    font-family: 'Cinzel', serif;
+    font-family: 'Orbitron', sans-serif;   
+}
+h2{
+    font-family: 'Cinzel', serif;
+    font-family: 'Orbitron', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.serieux{
+    margin-bottom: 20px;
+}
+.gallery_box_single{
+    background: #e2dcdc;
+    border-radius: 8px;
+    box-shadow: 8px 8px 0px #aaa;
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+}
+.card{
+     background-image: url(../img/fond.jpg);
+    
+    color: white;
+    font-size: 20px;
+    background-color: rgba( 0,0,0,0.3);
+    
+}
+.caption-text{
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+a{
+    color: white;
+}
+i{
+    font-size: 50px ;
+}
+#up{
+    height: 60px;
+    margin-top: 140px;
+}
+footer{
+   margin-top: 20px;
+   font-weight: bold;
+}
+a:hover{
+    text-decoration: none;
+    font-size: 25px;
+}
+.form-control{
+    margin-bottom: 10px;
+}
+.bold{
+    font-size: 30px;
+    font-weight: bold;
+}
+.bold1{
+    font-size: 20px;
+    font-weight: bold;
+}
+label{
+    font-size: 20px;
+}
+.text-danger{
+    font-size: 20px;
+}
+
+
+
+
